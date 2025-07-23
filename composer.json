@@ -1,0 +1,15 @@
+{
+    "name": "test/composer",
+    "description": "testttt",
+    "autoload": {
+        "psr-4": {
+            "Test\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jamih"
+        }
+    ],
+    "require": {}
+}
